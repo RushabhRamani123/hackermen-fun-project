@@ -1,0 +1,24 @@
+html,body{
+  height: 100% ;
+  width: 100% ;
+}
+body{
+  background: #000000;
+  color : rgb(65, 255, 65) ;
+  /* background-image: url("./img/schtgJ.jpg" ); */
+  background-size: cover;
+ 
+}
+.container{
+  background-image:url("./img/schtgJ.jpg");
+  width : 100% ;
+  height: 100vh;
+}
+img{
+   opacity: 0.1 ;
+  width: 100% ;
+}
+.text{
+  text-align:center ;
+  font-size: 26px ;
+}
